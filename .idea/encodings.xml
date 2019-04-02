@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/GBC.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/MyCharts.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/MyConnection.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/MyCustomTextField.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/MyDatePicker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/MyDelete.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/MyDeleteAll.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/MyExportToPdf.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/MyExportToTxt.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/MyForEdit.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/MyForm.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/MyGradesEdit.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/MyMenu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/MyResultsS.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/MySearch.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/MySumUp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/StartClass.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

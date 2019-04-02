@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Progob:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Progob_jar</output-path>
+    <root id="archive" name="Progob.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Desktop/wykonywalny JAR/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Progob" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/uczelnia/semestr_3/programowanie_obiektowe/poi-3.17/poi-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/uczelnia/semestr_3/programowanie_obiektowe/jfreechart-1.0.19/lib/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/uczelnia/semestr_3/programowanie_obiektowe/jfreechart-1.0.19/lib/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/uczelnia/semestr_3/programowanie_obiektowe/jfreechart-1.0.19/lib/jfreechart-1.0.19-experimental.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/uczelnia/semestr_3/programowanie_obiektowe/jfreechart-1.0.19/lib/jfreechart-1.0.19-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/uczelnia/semestr_3/programowanie_obiektowe/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/uczelnia/semestr_3/programowanie_obiektowe/jfreechart-1.0.19/lib/jfreesvg-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/uczelnia/semestr_3/programowanie_obiektowe/jfreechart-1.0.19/lib/junit-4.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/uczelnia/semestr_3/programowanie_obiektowe/jfreechart-1.0.19/lib/orsoncharts-1.4-eval-nofx.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/uczelnia/semestr_3/programowanie_obiektowe/jfreechart-1.0.19/lib/orsonpdf-1.6-eval.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/uczelnia/semestr_3/programowanie_obiektowe/jfreechart-1.0.19/lib/servlet.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/uczelnia/semestr_3/programowanie_obiektowe/jfreechart-1.0.19/lib/swtgraphics2d.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/uczelnia/semestr_3/programowanie_obiektowe/itextpdf-5.5.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/uczelnia/semestr_3/programowanie_obiektowe/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
